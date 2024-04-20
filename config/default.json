@@ -1,0 +1,5 @@
+{
+  "port": 3052,
+  "dbUri": "mongodb+srv://vasamalon:vmalion@cluster0.u4ddczy.mongodb.net/?retryWrites=true&w=majority",
+  "secretKeyToken": "secretKeyTokenBlaBlaBla"
+}
